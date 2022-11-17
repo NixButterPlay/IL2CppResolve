@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  Cache.cpp
+  Data.cpp
+  Main.cpp
+  Camera.cpp
+  Component.cpp
+  GameObject.cpp
+  LayerMask.cpp
+  Object.cpp
+  Rigidbody.cpp
+  Transform.cpp
+  _TEMPLATE_API.cpp
+  Obfuscators.cpp
+  Helper.cpp
+  Il2CppResolve.vcxproj -> C:\Users\VirusTest\source\repos\Il2CppResolve\Release\Il2CppResolve.lib
